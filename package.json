@@ -1,0 +1,9 @@
+{
+  "name": "auto-voter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "vote.js",
+  "dependencies": {
+    "firebase": "^9.0.0"
+  }
+}
